@@ -42,6 +42,7 @@ This project aims to predict disease names and recommend the top 3 drugs for a s
 
 ## Work Flow Diagram : 
 
+![WhatsApp Image 2024-11-14 at 9 12 06 PM](https://github.com/user-attachments/assets/4510f09f-8b50-491c-892c-f94bc11211fe)
 
 
 ## Key Code Sections and Functions:
