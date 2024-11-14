@@ -5,10 +5,10 @@ This project aims to predict disease names and recommend the top 3 drugs for a s
 
 ## Contents:
 
-[Methodology](#Methodology)
-[Work Flow Diagram](#WorkFlowDiagram)
-[Key Code Sections and Functions](#KeyCodeSectionsandFunctions)
-[Conclusion](#Conclusion)
+* [Methodology](#Methodology)
+* [Work Flow Diagram](#WorkFlowDiagram)
+* [Key Code Sections and Functions](#KeyCodeSectionsandFunctions)
+* [Conclusion](#Conclusion)
 
 
 ## Dataset Drive Link:
