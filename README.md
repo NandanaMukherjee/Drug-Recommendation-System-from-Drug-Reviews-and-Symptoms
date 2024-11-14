@@ -11,7 +11,8 @@ This project aims to predict disease names and recommend the top 3 drugs for a s
 [Conclusion](#Conclusion)
 
 
-## Dataset Drive Link:[ https://docs.google.com/spreadsheets/d/1zJZvBAPsv-BWvNjKc0HUmcQrrNRBr7zLkbuqhyHcdDU/edit?usp=sharing]
+## Dataset Drive Link:
+https://docs.google.com/spreadsheets/d/1zJZvBAPsv-BWvNjKc0HUmcQrrNRBr7zLkbuqhyHcdDU/edit?usp=sharing
 
 ## Methodology:
 
